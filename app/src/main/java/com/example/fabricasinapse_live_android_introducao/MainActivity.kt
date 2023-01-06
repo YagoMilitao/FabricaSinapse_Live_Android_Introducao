@@ -1,6 +1,7 @@
 package com.example.fabricasinapse_live_android_introducao
 
 import android.annotation.SuppressLint
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -17,6 +18,7 @@ class MainActivity : AppCompatActivity() {
         val tvResult = findViewById<TextView>(R.id.tvResult)
         val etName = findViewById<EditText>(R.id.etName)
         val btSend = findViewById<Button>(R.id.btSend)
+        val btSend2 = findViewById<Button>(R.id.btSend2)
 
         btSend.setOnClickListener {
             if(etName.text.isNullOrBlank()){
@@ -24,6 +26,20 @@ class MainActivity : AppCompatActivity() {
             }
             else{
                 tvResult.text = getString(R.string.hello_name, etName.text.toString())
+            }
+
+        }
+
+        btSend2.setOnClickListener {
+            if(etName.text.isNullOrBlank()){
+                etName.error = getString(R.string.type_your_name)
+            }
+            else{
+                val typedName = etName.text.toString()
+
+                val intent = Intent(this, ResultActivity::class.java)
+                intent.putExtra("TYPED_NAME",typedName)
+                startActivity(intent)
             }
 
         }
