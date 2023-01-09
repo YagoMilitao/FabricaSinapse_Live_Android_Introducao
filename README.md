@@ -38,18 +38,6 @@
 
   <h3 align="center">FabricaSinapse Live Android Introducao</h3>
 
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/YagoMilitao/FabricaSinapse_Live_Android_Introducao"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/YagoMilitao/FabricaSinapse_Live_Android_Introducao">View Demo</a>
-    ·
-    <a href="https://github.com/YagoMilitao/FabricaSinapse_Live_Android_Introducao/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/YagoMilitao/FabricaSinapse_Live_Android_Introducao/issues">Request Feature</a>
-  </p>
 </p>
 
 
