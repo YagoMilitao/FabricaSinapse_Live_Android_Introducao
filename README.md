@@ -32,7 +32,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://e7.pngegg.com/pngimages/335/719/png-clipart-android-studio-google-android-nougat-android-studio-trademark.png">
+  <a href="https://e7.pngegg.com/pngimages/466/228/png-clipart-android-studio-integrated-development-environment-logo-android-studio-logo.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
