@@ -33,7 +33,7 @@
 <br />
 <p align="center">
   <a href="https://e7.pngegg.com/pngimages/466/228/png-clipart-android-studio-integrated-development-environment-logo-android-studio-logo.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="[images/logo.png](https://e7.pngegg.com/pngimages/466/228/png-clipart-android-studio-integrated-development-environment-logo-android-studio-logo.png)" alt="AndroidStudioLogo" width="80" height="80">
   </a>
 
   <h3 align="center">FabricaSinapse Live Android Introducao</h3>
@@ -44,13 +44,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-<a href = "https://github.com/YagoMilitao">`[github_username]`</a>, 
-<a href = "https://github.com/YagoMilitao/FabricaSinapse_Live_Android_Introducao">`[repo_name]`</a>, 
-<a href = "mailto:yagoluizmilitao@gmail.com">`[email]`</a>,
+<a href = "https://github.com/YagoMilitao">`github_username`</a>, 
+<a href = "https://github.com/YagoMilitao/FabricaSinapse_Live_Android_Introducao">`repo_name`</a>, 
+<a href = "mailto:yagoluizmilitao@gmail.com">`email`</a>,
 `Um projeto feito para começar os estudos em Kotlin com o AndroidStudio`
 
 
@@ -65,15 +61,11 @@ Here's a blank template to get started:
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/YagoMilitao/FabricaSinapse_Live_Android_Introducao/issues) for a list of proposed features (and known issues).
+See the <a href = "https://github.com/YagoMilitao/FabricaSinapse_Live_Android_Introducao/issues">`[open issues]`</a>for a list of proposed features (and known issues).
 
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
