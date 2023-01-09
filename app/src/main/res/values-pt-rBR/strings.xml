@@ -11,4 +11,9 @@
     <string name="nav_header_desc">Cabeçalho de navegação</string>
     <string name="action_settings">Configurações</string>
     <string name="open_screen_to_get_result">Abrir Tela para Receber Resultado</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="activity_was_canceled">Atividade foi cancelada</string>
+    <string name="data_received">Dado recebido: %1$s</string>
 </resources>
