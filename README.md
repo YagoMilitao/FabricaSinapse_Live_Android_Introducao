@@ -48,7 +48,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+`[github_username](https://github.com/YagoMilitao)`, `[repo_name](https://github.com/YagoMilitao/FabricaSinapse_Live_Android_Introducao)`, `twitter_handle`, `mailto:yagoluizmilitao@gmail.com`, `FabricaSinapse_Live_Android_Introducao`, `project_description`
 
 
 ### Built With
