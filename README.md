@@ -48,7 +48,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`[github_username](https://github.com/YagoMilitao)`, `[repo_name](https://github.com/YagoMilitao/FabricaSinapse_Live_Android_Introducao)`, `twitter_handle`, <a href = "mailto:yagoluizmilitao@gmail.com">`email`<\a>, `FabricaSinapse_Live_Android_Introducao`, `project_description`
+`[github_username](https://github.com/YagoMilitao)`, `[repo_name](https://github.com/YagoMilitao/FabricaSinapse_Live_Android_Introducao)`, `twitter_handle`, <a href = "mailto:yagoluizmilitao@gmail.com">`email`</a>, `FabricaSinapse_Live_Android_Introducao`, `project_description`
 
 
 ### Built With
