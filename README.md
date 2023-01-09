@@ -32,7 +32,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/YagoMilitao/FabricaSinapse_Live_Android_Introducao">
+  <a href="https://e7.pngegg.com/pngimages/335/719/png-clipart-android-studio-google-android-nougat-android-studio-trademark.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
